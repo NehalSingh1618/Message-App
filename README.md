@@ -1,5 +1,5 @@
 # Message-App
-
+Hello, I am Nehal Singh currently pursuing Electronics Engineering from Indian Institute of Technology IIT (BHU), Varanasi.
 ### Project Documentation
 
 ## Key Features
@@ -42,6 +42,7 @@ This unique blend of features and technologies ensures an engaging and productiv
 * Next create a .env file in the root of the project directory, this is where you will put all your firebase config keys.
 * Go to Firebase console and select the project you just created, Select Add App and select Web, follow the on-screen instructions until Firebase provides you with a config object, take each property of the provided object and fill these fields inside the .env file:
 '''
+markdown
  REACT_APP_API_KEY =
 REACT_APP_AUTH_DOMAIN =
 REACT_APP_DB_URL =
@@ -50,9 +51,9 @@ REACT_APP_STORAGE_BUCKET =
 REACT_APP_SENDER_ID =
 REACT_APP_APP_ID =
 REACT_APP_MEAS_ID =
-'''
+
 
 ## Start the Project:
-''' npm start '' 
+''' npm start 
 
 * Enjoy the App.
